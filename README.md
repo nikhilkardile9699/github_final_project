@@ -1,5 +1,5 @@
 Simple Interest Calculator – Project Details
-A Simple Interest Calculator is a beginner-friendly web development project that calculates the interest earned or paid on a principal amount over a specific period at a fixed annual interest rate.
+The Simple Interest Calculator is a beginner-friendly web development project that calculates the interest earned or paid on a principal amount over a specific period at a fixed annual interest rate.
 1. Project Overview
 - Project Name: Simple Interest Calculator
 - Objective: Calculate simple interest and the total amount payable or receivable.
